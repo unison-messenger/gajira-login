@@ -1,6 +1,6 @@
 {
   "name": "@atlassian/gajira-login",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "description": "Used to store credentials for later use in CLI action",
   "main": "index.js",
   "scripts": {
